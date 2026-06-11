@@ -17,8 +17,5 @@ A web-based platform for pet adoption built using Python and Flask.
 - CSS
 - JavaScript
 
-## Screenshots
-(Add screenshots)
-
 ## Installation
 ...
